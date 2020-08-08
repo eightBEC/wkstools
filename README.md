@@ -2,7 +2,7 @@ wkstools
 =============
 wkstools is a small convenience library that provides utilities to efficiently work with entities and relations provided by IBM Natural Language Understanding.
 
-![PyPI - License](https://img.shields.io/pypi/l/wkstools?style=plastic)
+![PyPI - License](https://img.shields.io/pypi/l/wkstools)
 ![PyPI](https://img.shields.io/pypi/v/wkstools)
 
 ## Intuition
