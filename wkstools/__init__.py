@@ -1,6 +1,6 @@
 """ IBM Watson Natural Language Understanding + Watson Knowledge Studio tools """
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 from .wkstools import (
     parse_entities,
